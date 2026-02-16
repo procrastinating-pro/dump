@@ -1,3 +1,4 @@
+<img src="image.png" alt="Opis" width="500">
 # 🏛️ dump
 
 *Zbiór genialnych rozwiązań, których dokończenie byłoby obrazą dla mojej wolności osobistej.*
