@@ -15,7 +15,7 @@
 - Power Supply 5V 27W
 - Raspberry Pi TouchPad 7"
 - Connection through Ethernet
-- Connection with other devices "Smart Home" through "Bluetooth LE"
+
 
 # 2. OS
 ## NodeOne
@@ -39,4 +39,5 @@
 + Tailscale
 + ESP Home - for ESP32
 + Wled - for LED COB contol
++ Connection with other devices "Smart Home" through "Bluetooth LE"
 
