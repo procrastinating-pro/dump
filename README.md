@@ -1,4 +1,4 @@
-<img src="image.png" alt="Opis" width="100%">
+<img src="image.png" alt="Wolnego neta mosz synek!" width="100%">
 # 🏛️ dump
 
 *Zbiór genialnych rozwiązań, których dokończenie byłoby obrazą dla mojej wolności osobistej.*
