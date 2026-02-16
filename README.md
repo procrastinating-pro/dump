@@ -1,6 +1,3 @@
-
-´Oto wersja **"Ambitny Leniwiec"**:
-
 ---
 
 # 🏛️ dump
