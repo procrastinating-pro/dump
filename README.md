@@ -4,7 +4,7 @@
 
 <details>
   <summary><b>🇵🇱 Kliknij, aby rozwinąć manifest po polsku</b></summary>
-*Zbiór genialnych rozwiązań, których dokończenie byłoby obrazą dla mojej wolności osobistej.*
+Zbiór genialnych rozwiązań, których dokończenie byłoby obrazą dla mojej wolności osobistej.
 
 To nie jest zwykłe repozytorium. To archiwum mojej wyższości nad problemami, które uznałem za zbyt proste, by poświęcać im więcej niż 15 minut. Jako **procrastinating-pro**, brzydzę się kończeniem projektów – prawdziwa sztuka to ich perfekcyjne zaplanowanie i natychmiastowe porzucenie na rzecz czegoś trudniejszego.
 
