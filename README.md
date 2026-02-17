@@ -26,11 +26,11 @@ Jak widzisz, matematyki nie oszukasz. Moja ambicja jest tak wielka, że paraliż
 
 ### 🚩 FAQ
 
-**P: Czy to zadziała u mnie?**
-O: Prawdopodobnie nie. Wymaga to specyficznej konfiguracji zmiennych środowiskowych, których nie zapisałem, bo "przecież będę o nich pamiętał".
+* **P: Czy to zadziała u mnie?**
+ * **O:** Prawdopodobnie nie. Wymaga to specyficznej konfiguracji zmiennych środowiskowych, których nie zapisałem, bo "przecież będę o nich pamiętał".
 
-**P: Kiedy update?**
-O: Kiedy nuda przeważy nad poczuciem winy. Czyli nie dzisiaj.
+* **P: Kiedy update?**
+ * **O:** Kiedy nuda przeważy nad poczuciem winy. Czyli nie dzisiaj.
 
 ---
 
