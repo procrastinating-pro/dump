@@ -37,3 +37,53 @@ O: Kiedy nuda przeważy nad poczuciem winy. Czyli nie dzisiaj.
 
 ---
 </details>
+
+<details open>
+<summary><b>🇬🇧 Click to expand the English manifesto</b></summary>
+---
+
+*A collection of brilliant solutions whose completion would be a direct insult to my personal freedom.*
+
+This is no ordinary repository. This is an archive of my intellectual superiority over problems I deemed too trivial to occupy more than 15 minutes of my time. As a **procrastinating-pro**, I find the act of finishing projects repulsive – true art lies in their perfect planning and immediate abandonment in favor of something more complex.
+
+### 🧠 The Ambitious Procrastinator’s Manifesto
+
+* **Code too beautiful to run:** Every line is poetry that the compiler wouldn’t understand anyway.
+* 
+**Architecture Overkill:** Why write a simple Bash script when you can design a Kubernetes-based microservice mesh that I’ll never actually deploy?
+
+
+* **The "90% Rule":** The last 10% of a project is derivative labor. I am the visionary; I don't do the cleanup.
+
+
+
+### 🔬 Laboratory Contents
+
+* **Revolutionary Algorithms:** Aborted mid-way because I had a better idea.
+* **`main.py` Files:** Containing nothing but imports of libraries I intended to dominate.
+* 
+**Optimizations:** Saving 0.0001s of execution time at the cost of 4 days of my life.
+
+
+
+### ⚙️ Methodology
+
+My ambition is so vast it creates a gravitational pull that paralyzes real action. It's pure physics.
+
+### 🚩 FAQ
+
+* **Q: Will this work for me?**
+* **A:** Probably not. It requires a specific set of environment variables that I didn't document because "obviously, I'll remember them".
+
+
+
+
+* **Q: When is the update?**
+* **A:** When boredom finally outweighs the guilt. So, not today.
+
+
+
+> *"If I really wanted to, I could finish this in an hour. The fact that I don't is what makes me intriguing."*
+
+---
+</details>
