@@ -49,8 +49,8 @@ This is no ordinary repository. This is an archive of my intellectual superiorit
 ### 🧠 The Ambitious Procrastinator’s Manifesto
 
 * **Code too beautiful to run:** Every line is poetry that the compiler wouldn’t understand anyway.
-* 
-**Architecture Overkill:** Why write a simple Bash script when you can design a Kubernetes-based microservice mesh that I’ll never actually deploy?
+
+* **Architecture Overkill:** Why write a simple Bash script when you can design a Kubernetes-based microservice mesh that I’ll never actually deploy?
 
 
 * **The "90% Rule":** The last 10% of a project is derivative labor. I am the visionary; I don't do the cleanup.
