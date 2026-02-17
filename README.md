@@ -1,4 +1,5 @@
 <img src="image.png" alt="Wolnego neta mosz synek!" width="100%">
+
 # 🏛️ dump
 
 <details>
