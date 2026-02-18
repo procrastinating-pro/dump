@@ -1,4 +1,4 @@
-# 💀 Project UndeadZero
+# 💀 Project undead-zero
 
 ### *The Self-Healing, Zero-Trust Data Fortress.*
 
