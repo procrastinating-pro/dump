@@ -1,4 +1,4 @@
-# 📂 Project NodeOne: Secure Data Science & Ops Center
+# 📂 Project UndeadZero: Secure Data Science & Ops Center
 
 **Status:** Phase 2 (Analytics & IDS) – **Active** 🟢
 **Version:** 2.1 (Data Lake Edition)
